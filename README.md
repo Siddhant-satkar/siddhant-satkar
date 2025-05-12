@@ -78,36 +78,3 @@ Hi, my name is Siddhant. Since the beginning of 2024 I have been studying and pr
 * [Fundamentals of manual software testing](https://www.udemy.com/certificate/UC-cb1f1ecf-5dbb-4879-896d-469cdaa18751/)
 * [Postman - REST API testing](https://www.udemy.com/certificate/UC-34482c92-39fa-4fed-ae79-fa441c429cc6/)
 * [INCO Green Digital Skills](https://drive.google.com/file/d/1s_PxjBdtJznErCLK6pftFKwhvPNynW1a/view?usp=drive_link)
-
-### Samples :microscope:
-**1. Allegro Sandbox**
-* [Test plan](https://drive.google.com/file/d/1cRJdU6T6CtdcUbtz7Vtp08lzP7Up145y/view?usp=drive_link)
-* [Test cases](https://docs.google.com/document/d/1obBYg-6bmxsXW05WEku2Z7R_r_DquGhnboqCt_j0A9E/edit?usp=drive_link)
-* [Bug report](https://docs.google.com/spreadsheets/d/1N0UNluPKfuGABzAiERWwAnW2OD1mKbVmq3zWGuOAJ8Q/edit?usp=drive_link)
-* [Test report](https://drive.google.com/file/d/10nz_hn8osQ20P3n1tEWSlKMcgNqtJ_yB/view?usp=drive_link)
-
-**2. Generic Shop by TestArmy**
-* [Test plan](https://drive.google.com/file/d/14YT3LU42hfid7Ydq7eo5Dv2m8CQwgZNH/view?usp=drive_link)
-* [Scenario and test cases](https://docs.google.com/spreadsheets/d/1lCWVFviaHi4Q8tluyCWeMiH4a-cpWKqzjk7G3zJPfqA/edit?usp=sharing)
-* [Bug report](https://docs.google.com/spreadsheets/d/1Ztz3sgFs_pcBi3PXwAIu-MNxDDbJeHlPIpnPANpMmIA/edit?usp=sharing)
-* [Test report](https://drive.google.com/file/d/1pDDZ93CVt_WPvAae1AgnnMhsZjTb95iB/view?usp=drive_link)
-
-### Books :books:
-* Rafał Podraza, “Ścieżka testera. Certyfikat ISTQB w pytaniach i odpowiedziach”
-* Piotr Wicherski, [Testowanie oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
-
-### Blogs :newspaper:
-* [Testerzy](https://testerzy.pl/)
-* [Testuj](https://testuj.pl/blog/)
-* [Wyszkolę Was](https://www.wyszkolewas.com.pl/blog/)
-* [Testowanie oprogramowania](https://testowanie-oprogramowania.pl/blog/)
-
-### Podcasts :microphone:
-* [Pierwsze kroki w IT](https://open.spotify.com/show/5G4Ykc9IwoCj4uirzGmxUh)
-
-### IT groups I follow on Facebook :link:
-* [DareIT Community](https://www.facebook.com/groups/dareit.io/)
-* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)
-* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
-* [Testuj, Dziewczyno!](https://www.facebook.com/groups/testujdziewczyno/)
-* [Programuj, Dziewczyno!](https://www.facebook.com/groups/programujdziewczyno/)
